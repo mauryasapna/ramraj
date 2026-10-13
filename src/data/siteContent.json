@@ -1,0 +1,385 @@
+{
+  "gallery": [
+    {
+      "id": "chardham",
+      "src": "/images/chardham.jpg",
+      "alt": "Char Dham Yatra || चारों धाम की पावन यात्रा ||"
+    },
+    {
+      "id": "dodham",
+      "src": "/images/dodham.jpg",
+      "alt": "Do Dham Yatra (Kedarnath & Badrinath)"
+    },
+    {
+      "id": "kedarnath",
+      "src": "/images/kedarnath.jpg",
+      "alt": "Kedarnath Dham || हर हर महादेव ||"
+    },
+    {
+      "id": "badrinath",
+      "src": "/images/badrinath.jpg",
+      "alt": "Badrinath Dham || जय बद्री विशाल ||"
+    },
+    {
+      "id": "tungnath",
+      "src": "/images/tungnath.jpg",
+      "alt": "Tungnath Mahadev Temple Chopta"
+    },
+    {
+      "id": "chakrata",
+      "src": "/images/chakrata.jpg",
+      "alt": "Chakrata Tiger Falls Hill Station"
+    },
+    {
+      "id": "auli",
+      "src": "/images/auli.jpg",
+      "alt": "Auli Snow Slopes & Ropeway"
+    },
+    {
+      "id": "yamunotri",
+      "src": "/images/yamunotri.jpg",
+      "alt": "Yamunotri Dham || जय माँ यमुनोत्री ||"
+    },
+    {
+      "id": "gangotri",
+      "src": "/images/gangotri.jpg",
+      "alt": "Gangotri Dham || माँ गंगा की पावन धरा ||"
+    },
+    {
+      "id": "rishikesh",
+      "src": "/images/rishikesh.jpg",
+      "alt": "Rishikesh || हर हर गंगे ||"
+    },
+    {
+      "id": "dehradun",
+      "src": "/images/dehradun.jpg",
+      "alt": "Dehradun City of Dreams & Hills"
+    },
+    {
+      "id": "delhi-haridwar",
+      "src": "/images/delhi-haridwar.jpg",
+      "alt": "Delhi ⇄ Haridwar Cab Service"
+    },
+    {
+      "id": "delhi-dehradun",
+      "src": "/images/delhi-dehradun.jpg",
+      "alt": "Delhi ⇄ Dehradun Cab Service"
+    },
+    {
+      "id": "delhi-mussoorie",
+      "src": "/images/delhi-mussoorie.jpg",
+      "alt": "Delhi ⇄ Mussoorie Cab Service"
+    },
+    {
+      "id": "airport",
+      "src": "/images/airport.jpg",
+      "alt": "Dehradun to Jolly Grant Airport Drop"
+    },
+    {
+      "id": "haridwar",
+      "src": "/images/haridwar.jpg",
+      "alt": "Haridwar Har Ki Pauri Ganga Aarti"
+    },
+    {
+      "id": "delhi",
+      "src": "/images/delhi.jpg",
+      "alt": "Delhi India Gate Expressway"
+    }
+  ],
+  "tours": [
+    {
+      "id": "chardham-yatra",
+      "category": "dham",
+      "title": "Chardham Yatra",
+      "routeText": "Haridwar / Delhi ⇄ Yamunotri • Gangotri • Kedarnath • Badrinath",
+      "description": "Complete 9 Nights 10 Days sacred pilgrimage with expert hill driver.",
+      "image": "/images/chardham.jpg",
+      "distanceTime": "9 Nights / 10 Days Yatra",
+      "sedanFare": 35000,
+      "ertigaFare": 45000,
+      "innovaFare": 55000,
+      "tempoFare": 75000,
+      "badge": "9 Nights / 10 Days",
+      "priceHighlight": "35000 to 50000"
+    },
+    {
+      "id": "twodham-yatra",
+      "category": "dham",
+      "title": "Do Dham Yatra (Kedarnath & Badrinath)",
+      "routeText": "Haridwar / Rishikesh ⇄ Kedarnath & Badrinath Dham",
+      "description": "Special 5 Nights 6 Days pilgrimage covering Baba Kedarnath and Badri Vishal.",
+      "image": "/images/dodham.jpg",
+      "distanceTime": "5 Nights / 6 Days Yatra",
+      "sedanFare": 21000,
+      "ertigaFare": 27000,
+      "innovaFare": 33000,
+      "tempoFare": 45000,
+      "badge": "5 Nights / 6 Days",
+      "priceHighlight": "21000 to 33000"
+    },
+    {
+      "id": "yamunotri-yatra",
+      "category": "dham",
+      "title": "Yamunotri Dham Yatra (3 Days)",
+      "routeText": "Haridwar / Dehradun ⇄ Barkot • Janki Chatti • Yamunotri",
+      "description": "3 Days dedicated cab pilgrimage to holy Yamunotri Dham via Barkot.",
+      "image": "/images/yamunotri.jpg",
+      "distanceTime": "3 Days Special",
+      "sedanFare": 12000,
+      "ertigaFare": 15000,
+      "innovaFare": 18000,
+      "tempoFare": 25000,
+      "badge": "3 Days Yatra",
+      "priceHighlight": "12,000 to 18,000"
+    },
+    {
+      "id": "gangotri-yatra",
+      "category": "dham",
+      "title": "Gangotri Dham Yatra (3 Days)",
+      "routeText": "Haridwar / Dehradun ⇄ Uttarkashi • Harsil • Gangotri Dham",
+      "description": "3 Days sacred pilgrimage to Gangotri Dham through majestic Harsil Valley.",
+      "image": "/images/gangotri.jpg",
+      "distanceTime": "3 Days Special",
+      "sedanFare": 12000,
+      "ertigaFare": 15000,
+      "innovaFare": 18000,
+      "tempoFare": 25000,
+      "badge": "3 Days Yatra",
+      "priceHighlight": "12,000 to 18,000"
+    },
+    {
+      "id": "kedarnath-yatra",
+      "category": "dham",
+      "title": "Kedarnath Dham Yatra (4 Days)",
+      "routeText": "Haridwar / Rishikesh ⇄ Guptkashi • Sonprayag Base",
+      "description": "4 Days pilgrimage to Baba Kedarnath with Sonprayag standby and helipad transfers.",
+      "image": "/images/kedarnath.jpg",
+      "distanceTime": "4 Days Special",
+      "sedanFare": 14000,
+      "ertigaFare": 18000,
+      "innovaFare": 22000,
+      "tempoFare": 30000,
+      "badge": "4 Days Yatra",
+      "priceHighlight": "14,000 to 22,000"
+    },
+    {
+      "id": "badrinath-yatra",
+      "category": "dham",
+      "title": "Badrinath Dham Yatra (3 Days)",
+      "routeText": "Haridwar / Rishikesh ⇄ Joshimath • Badrinath Dham",
+      "description": "3 Days pilgrimage to Badri Vishal and India's first village Mana.",
+      "image": "/images/badrinath.jpg",
+      "distanceTime": "3 Days Special",
+      "sedanFare": 12000,
+      "ertigaFare": 15000,
+      "innovaFare": 18000,
+      "tempoFare": 25000,
+      "badge": "3 Days Yatra",
+      "priceHighlight": "12,000 to 18,000"
+    },
+    {
+      "id": "tungnath-yatra",
+      "category": "dham",
+      "title": "Tungnath & Chopta Yatra (3 Days)",
+      "routeText": "Haridwar / Rishikesh ⇄ Chopta • Tungnath Mahadev • Chandrashila",
+      "description": "Sacred pilgrimage to the world's highest Shiva shrine (3,680m) and scenic Chopta meadows.",
+      "image": "/images/tungnath.jpg",
+      "distanceTime": "3 Days Special Yatra",
+      "sedanFare": 12000,
+      "ertigaFare": 15000,
+      "innovaFare": 18000,
+      "tempoFare": 25000,
+      "badge": "3 Days Yatra",
+      "priceHighlight": "12,000 to 18,000"
+    },
+    {
+      "id": "chakrata-tour",
+      "category": "sightseeing",
+      "title": "Chakrata Hill Tour (2 Days)",
+      "routeText": "Dehradun / Haridwar ⇄ Chakrata • Tiger Falls • Chilmiri Neck",
+      "description": "Quiet mountain retreat among pristine deodar forests, majestic Tiger Falls, and sunset viewpoints.",
+      "image": "/images/chakrata.jpg",
+      "distanceTime": "2 Days Hill Tour",
+      "sedanFare": 7000,
+      "ertigaFare": 9000,
+      "innovaFare": 11000,
+      "tempoFare": 16000,
+      "badge": "2 Days Tour",
+      "priceHighlight": "7,000 to 11,000"
+    },
+    {
+      "id": "auli-tour",
+      "category": "sightseeing",
+      "title": "Auli Snow & Ski Tour (3 Days)",
+      "routeText": "Haridwar / Rishikesh ⇄ Joshimath • Auli Ski Resort • Nanda Devi View",
+      "description": "Unforgettable winter wonderland experience with Asia's longest cable car and snow-capped peaks.",
+      "image": "/images/auli.jpg",
+      "distanceTime": "3 Days Special Tour",
+      "sedanFare": 13000,
+      "ertigaFare": 16000,
+      "innovaFare": 19000,
+      "tempoFare": 26000,
+      "badge": "3 Days Tour",
+      "priceHighlight": "13,000 to 19,000"
+    },
+    {
+      "id": "mussoorie-sightseeing",
+      "category": "sightseeing",
+      "title": "Mussoorie Sightseeing",
+      "routeText": "Dehradun / Haridwar ⇄ Mussoorie Queen of Hills",
+      "description": "Full Day dedicated private cab for complete Mussoorie sightseeing with no rush.",
+      "image": "/images/mussoorie.jpg",
+      "distanceTime": "Full Day Dedicated Cab",
+      "sedanFare": 3500,
+      "ertigaFare": 4500,
+      "innovaFare": 5500,
+      "tempoFare": 7500,
+      "badge": "Full Day Cab",
+      "priceHighlight": "₹3,500"
+    },
+    {
+      "id": "haridwar-sightseeing",
+      "category": "sightseeing",
+      "title": "Haridwar Sightseeing",
+      "routeText": "Haridwar City & Famous Temples Tour",
+      "description": "Full Day private cab covering Har Ki Pauri, Mansa Devi, Chandi Devi, Shantikunj & Evening Ganga Aarti.",
+      "image": "/images/haridwar.jpg",
+      "distanceTime": "Full Day Dedicated Cab",
+      "sedanFare": 3500,
+      "ertigaFare": 4500,
+      "innovaFare": 5500,
+      "tempoFare": 7500,
+      "badge": "Full Day Cab",
+      "priceHighlight": "₹3,500"
+    },
+    {
+      "id": "rishikesh-sightseeing",
+      "category": "sightseeing",
+      "title": "Rishikesh Sightseeing",
+      "routeText": "Rishikesh City, Ashrams & Ghats Tour",
+      "description": "Full Day private cab covering Ram Jhula, Laxman Jhula, Triveni Ghat, Beatles Ashram & Parmarth Niketan Aarti.",
+      "image": "/images/rishikesh.jpg",
+      "distanceTime": "Full Day Dedicated Cab",
+      "sedanFare": 3500,
+      "ertigaFare": 4500,
+      "innovaFare": 5500,
+      "tempoFare": 7500,
+      "badge": "Full Day Cab",
+      "priceHighlight": "₹3,500"
+    },
+    {
+      "id": "dehradun-sightseeing",
+      "category": "sightseeing",
+      "title": "Dehradun Sightseeing",
+      "routeText": "Dehradun City & Famous Tourist Spots",
+      "description": "Full Day dedicated private cab for complete Dehradun tourist destinations.",
+      "image": "/images/dehradun.jpg",
+      "distanceTime": "Full Day Dedicated Cab",
+      "sedanFare": 3500,
+      "ertigaFare": 4500,
+      "innovaFare": 5500,
+      "tempoFare": 7500,
+      "badge": "Full Day Cab",
+      "priceHighlight": "₹3,500"
+    },
+    {
+      "id": "jolly-grant-airport-transfer",
+      "category": "intercity",
+      "title": "Dehradun ⇄ Jolly Grant Airport Transfer",
+      "routeText": "Dehradun City / Station ⇄ Jolly Grant Airport (Drop & Pickup)",
+      "description": "Guaranteed on-time airport drop and pickup with flight tracking.",
+      "image": "/images/airport.jpg",
+      "distanceTime": "Airport Drop / Pickup",
+      "sedanFare": 3500,
+      "ertigaFare": 4500,
+      "innovaFare": 5500,
+      "tempoFare": 7500,
+      "badge": "Airport Transfer",
+      "priceHighlight": "₹3,500"
+    },
+    {
+      "id": "delhi-dehradun-exchangeable",
+      "category": "intercity",
+      "title": "Delhi → Dehradun (One Way)",
+      "routeText": "Delhi NCR → Dehradun Expressway",
+      "description": "Fast one way expressway cab service from Delhi NCR to Dehradun with doorstep pickup.",
+      "image": "/images/delhi-dehradun.jpg",
+      "distanceTime": "Expressway Route • 4.5 Hrs (One Way)",
+      "sedanFare": 4500,
+      "ertigaFare": 5800,
+      "innovaFare": 7200,
+      "tempoFare": 9500,
+      "badge": "Delhi → Dehradun One Way",
+      "priceHighlight": "4,500 to 7,200"
+    },
+    {
+      "id": "delhi-haridwar-exchangeable",
+      "category": "intercity",
+      "title": "Delhi → Haridwar (One Way)",
+      "routeText": "Delhi NCR → Haridwar Highway",
+      "description": "Smooth one way highway cab service from Delhi NCR to Haridwar.",
+      "image": "/images/delhi-haridwar.jpg",
+      "distanceTime": "Highway Route • 4 Hrs (One Way)",
+      "sedanFare": 4500,
+      "ertigaFare": 5800,
+      "innovaFare": 7200,
+      "tempoFare": 9500,
+      "badge": "Delhi → Haridwar One Way",
+      "priceHighlight": "4,500 to 7,200"
+    },
+    {
+      "id": "delhi-mussoorie-exchangeable",
+      "category": "intercity",
+      "title": "Delhi → Mussoorie (One Way)",
+      "routeText": "Delhi NCR → Mussoorie Queen of Hills",
+      "description": "Direct one way mountain cab service from Delhi NCR to Mussoorie.",
+      "image": "/images/delhi-mussoorie.jpg",
+      "distanceTime": "Direct Mountain Route (One Way)",
+      "sedanFare": 4500,
+      "ertigaFare": 5800,
+      "innovaFare": 7200,
+      "tempoFare": 9500,
+      "badge": "Delhi → Mussoorie One Way",
+      "priceHighlight": "4,500 to 7,200"
+    }
+  ],
+  "contact": {
+    "brandName": "RAMRAJ CABS",
+    "tagline": "Har Safar, Vishwas Ke Saath.",
+    "phone": "+91 9128961411",
+    "phoneDisplay": "+91 91289 61411",
+    "whatsapp": "919128961411",
+    "email": "travellervikashraj@gmail.com",
+    "officeAddress": "Haridwar & Dehradun, Uttarakhand"
+  },
+  "faqs": [
+    {
+      "question": "How long does a cab take from Delhi to Dehradun, and are expressway tolls included?",
+      "answer": "Traveling between Delhi NCR and Dehradun takes approximately 4.5 to 5 hours via the new Delhi-Dehradun Expressway. Ramraj Cabs fixed ₹4,500 (Sedan) fare fully includes driver allowance, expressway toll taxes, and state border entry charges."
+    },
+    {
+      "question": "How do I book a cab for Haridwar to Kedarnath Yatra, and does the driver standby during darshan?",
+      "answer": "You can book directly via WhatsApp or phone call. Our cab picks you up from Haridwar and drops you at Sonprayag/Gaurikund base camp. On round trips, our experienced hill driver waits on standby in secure parking at Sonprayag until your darshan is complete."
+    },
+    {
+      "question": "Which tourist attractions are covered in the Mussoorie Sightseeing package?",
+      "answer": "Full-day Mussoorie sightseeing covers Kempty Falls, Company Garden, Mussoorie Mall Road, Gun Hill viewpoint, Camel's Back Road, and George Everest House. The dedicated private vehicle remains at your family's disposal for the full 8-10 hour day."
+    },
+    {
+      "question": "Are your drivers hill-certified and experienced on mountain roads?",
+      "answer": "Yes, all our drivers are native to Uttarakhand with 8+ years of dedicated experience on Himalayan mountain ghats, hairpin bends, and varied weather. Vehicles hold valid commercial permits and hill certifications."
+    },
+    {
+      "question": "What is the advance payment policy and what are the cancellation charges?",
+      "answer": "No heavy upfront deposit is required to confirm your booking. You can pay the driver directly via cash or UPI at the completion of your journey. Free cancellation applies when notified at least 6 hours prior to pickup."
+    },
+    {
+      "question": "Is luggage carrier and sufficient trunk space available in the vehicles?",
+      "answer": "Sedan vehicles accommodate 3-4 standard bags in the trunk. SUVs (Ertiga & Innova Crysta) feature generous boot space plus rooftop luggage carriers to ensure comfortable seating on long family journeys."
+    },
+    {
+      "question": "What is the 24/7 emergency and dispatch contact number?",
+      "answer": "You can reach our 24/7 dedicated travel support desk anytime via phone call or WhatsApp at +91 91289 61411."
+    }
+  ]
+}
