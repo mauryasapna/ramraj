@@ -31,7 +31,7 @@ export default function HeroSection() {
 
             {/* Title */}
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight uppercase text-white leading-tight">
-              RAMRAJ <span className="text-amber-400">CABS</span>
+              RAM RAJ <span className="text-amber-400">CABS</span>
             </h1>
 
             {/* Tagline */}
@@ -39,6 +39,11 @@ export default function HeroSection() {
               Har Safar, <br className="hidden sm:inline" />
               <span className="text-white">Vishwas Ke Saath.</span>
             </div>
+
+            {/* Local SEO Target Subheading */}
+            <h2 className="text-sm sm:text-base md:text-lg font-bold text-amber-300/90 tracking-normal">
+              Trusted Taxi & Cab Service in Dehradun, Uttarakhand & Delhi NCR
+            </h2>
 
             <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-xl">
               Professional travel made seamless, safe, and reliable. Dedicated private cabs, verified native Pahadi chauffeurs, and transparent pricing for every journey.

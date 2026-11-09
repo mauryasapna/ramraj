@@ -31,14 +31,14 @@ export interface FeaturedService {
 }
 
 export const CONTACT_INFO = {
-  brandName: "RAMRAJ CABS",
+  brandName: "Ram Raj Cabs",
   tagline: "Har Safar, Vishwas Ke Saath.",
   subTagline: "Chardham Special Booking Available",
   phone: "+91 9128961411",
   phoneDisplay: "+91 91289 61411",
   whatsapp: "919128961411",
   email: "travellervikashraj@gmail.com",
-  officeAddress: "Haridwar & Dehradun, Uttarakhand",
+  officeAddress: "Dehradun, Uttarakhand, India",
   rating: "4.9",
   reviewsCount: "1,500+",
   googleReviewUrl: "https://share.google/PG33IVXHFpk8JwsHH",

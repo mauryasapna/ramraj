@@ -18,18 +18,27 @@ export default function GalleryPage() {
 
       <main className="flex-1 py-8 sm:py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
-          {/* Header Link */}
-          <div className="mb-6 flex items-center justify-between">
-            <Link
-              href="/"
-              className="inline-flex items-center gap-2 text-xs font-bold text-slate-300 hover:text-white bg-slate-800 px-4 py-2 rounded-xl border border-slate-700 transition-all"
-            >
-              <ArrowLeft className="w-3.5 h-3.5" /> Back to Home
-            </Link>
+          {/* Header Link & Title */}
+          <div className="mb-6">
+            <div className="flex items-center justify-between mb-4">
+              <Link
+                href="/"
+                className="inline-flex items-center gap-2 text-xs font-bold text-slate-300 hover:text-white bg-slate-800 px-4 py-2 rounded-xl border border-slate-700 transition-all"
+              >
+                <ArrowLeft className="w-3.5 h-3.5" /> Back to Home
+              </Link>
 
-            <span className="text-sm font-bold text-amber-400 uppercase tracking-wider">
-              Photo Gallery
-            </span>
+              <span className="text-xs font-bold text-amber-400 uppercase tracking-wider bg-slate-800/80 px-3 py-1 rounded-full border border-slate-700">
+                Fleet & Tour Memories
+              </span>
+            </div>
+
+            <h1 className="text-2xl sm:text-3xl font-black text-white tracking-tight">
+              Ram Raj Cabs <span className="text-amber-400">Photo Gallery</span>
+            </h1>
+            <p className="text-xs sm:text-sm text-slate-400 mt-1">
+              Real photos of our well-maintained cabs, Chardham Yatra routes, and Uttarakhand sightseeing tours.
+            </p>
           </div>
 
           {/* Pure Simple Images Grid (No Zoom, No Extra Text, Excluding Home Page Logo) */}

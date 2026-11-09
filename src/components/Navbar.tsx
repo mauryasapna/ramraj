@@ -18,7 +18,7 @@ export default function Navbar() {
           <div className="flex items-center justify-between gap-2">
             <div className="flex items-center gap-1.5 text-amber-400 font-bold tracking-tight text-[11px] sm:text-xs">
               <Sparkles className="w-3 h-3 sm:w-3.5 sm:h-3.5 text-amber-400 flex-shrink-0" />
-              <span className="tracking-wide">RAMRAJ CABS</span>
+              <span className="tracking-wide">RAM RAJ CABS</span>
               <span className="text-slate-600 hidden sm:inline">•</span>
               <span className="text-slate-300 font-medium hidden sm:inline">Har Safar, Vishwas Ke Saath.</span>
             </div>
