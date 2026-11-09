@@ -2,6 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.ramrajcabs.com"),
+  alternates: {
+    canonical: "/",
+  },
   title: "Ramraj Cabs | Premium Taxi Service in Haridwar, Uttarakhand & Delhi NCR",
   description:
     "Book Ramraj Cabs in Haridwar — One-Way & Round Trip Cabs, Har Ki Pauri Sightseeing, Delhi to Haridwar, Dehradun, Rishikesh, Mussoorie & Hill Station Tours. Transparent pricing, local pahadi drivers, 24/7 service.",
